@@ -14,12 +14,12 @@
       {
         "os": "windows",
         "arch": "amd64",
-        "path": "BrowserGhost.exe"
+        "path": "SharpHound.exe"
       },
       {
         "os": "windows",
         "arch": "386",
-        "path": "BrowserGhost.exe"
+        "path": "SharpHound.exe"
       }
     ]
   }
